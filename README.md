@@ -17,6 +17,9 @@ Aplikasi ini adalah sistem manajemen tugas yang memungkinkan pengguna untuk memb
 - ✅ **Tampilan Terpisah** - Melihat tugas yang pending dan yang sudah selesai secara terpisah
 - ✅ **Notifikasi Toast** - Menampilkan pesan notifikasi untuk setiap aksi pengguna
 
+## Link Video Presentasi : 
+https://www.loom.com/share/d5a21804e1d4408897d73a4cdd68ac51
+
 ### Fitur Kategori (BARU! 🆕)
 Fitur kategori memungkinkan pengguna untuk mengorganisir tugas mereka dengan lebih baik:
 
